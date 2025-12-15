@@ -21,6 +21,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 <img width="356" height="271" alt="image" src="https://github.com/user-attachments/assets/90a60184-53a3-47ea-9cbe-34c73d98eb15" />
 
 
+
+
 <img width="254" height="198" alt="image" src="https://github.com/user-attachments/assets/81497492-ef68-46bc-8010-f23731d0899c" />
 
 
